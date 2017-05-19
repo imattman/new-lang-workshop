@@ -3,6 +3,10 @@
 - hello world
   - verifies environment
   - intro to new syntax
+- command line adder
+  - multiple args
+  - add or mult flag handling
+  - parsing ints, formatting output
 - wordcount
   - intro to I/O with files
   - basic dict/map usage and sorting
